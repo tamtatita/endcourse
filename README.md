@@ -15,7 +15,7 @@ HỆ THỐNG HỖ TRỢ GIẢNG VIÊN QUẢN LÝ NỘI DUNG VÀ TIẾN ĐỘ GI�
    - Giao diện đăng nhập
    ![image](https://github.com/tamtatita/endcourse/assets/94518732/025f1542-4e45-4db1-9eb9-5aba0ca2d6a9)
   - Giao diện trang chủ
-  ![image](https://github.com/tamtatita/endcourse/assets/94518732/cf9dfbbc-4072-41c0-a572-59d9afa57395)
+    ![image](https://github.com/tamtatita/endcourse/assets/94518732/bbd8cac4-0cad-4408-8f29-bfa7c44f3e7a)
   - Giao diện trang lớp học
   ![image](https://github.com/tamtatita/endcourse/assets/94518732/1d095e9c-aa84-4124-ba76-86bb3c0b6560)
   - Giao diện trang Tạo lớp học(Có thể tạo lớp học thủ công hoặc tự động)
