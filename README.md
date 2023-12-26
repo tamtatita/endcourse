@@ -4,13 +4,13 @@ HỆ THỐNG HỖ TRỢ GIẢNG VIÊN QUẢN LÝ NỘI DUNG VÀ TIẾN ĐỘ GI�
    - Backend: ExpressJS, NodeJs
    - Database: Mysql, Firebase Storage
 2. GỒM CÁC CHỨC NĂNG CHÍNH
-   o	Ghi chú: giảng viên có thể ghi chú lại mỗi lớp học
-   o	Tạo lớp học: Giảng viên có thể tạo lớp học bằng cách thủ công hay bằng cách tự động nhờ vào import excel
-   o	Quản lý tiến độ: Giảng viên có thể xem các tuần mà môn học được dạy, có thể tích vào là nghỉ học hay là đã dạy theo từng tình huống xảy ra
-   o	Quản lý bài giảng: Giảng viên có thể upload các tài liệu giảng dạy lên hệ thống, có thể xóa cái bài giảng đó
-   o	Giáo án giảng dạy: Giảng viên có thể tạo giáo án giảng dạy, áp dụng cho nhiều lớp
-   o	Xác nhận tiến độ hoặc tạo lịch bù: Giảng viên có thể xem lại được lịch sử xác nhận tiến độ ứng với mỗi buổi nghỉ, hoặc buổi nào đã xác nhận dạy
-   o	Thống kê theo lớp học: ứng với mỗi lớp sẽ có 1 thống kê khác nhau, với các dạng thống kê như: Thống kê tiến độ mỗi lớp, thống kê theo tuần dạy
+   - Ghi chú: giảng viên có thể ghi chú lại mỗi lớp học
+   - Tạo lớp học: Giảng viên có thể tạo lớp học bằng cách thủ công hay bằng cách tự động nhờ vào import excel
+   - Quản lý tiến độ: Giảng viên có thể xem các tuần mà môn học được dạy, có thể tích vào là nghỉ học hay là đã dạy theo từng tình huống xảy ra
+   - Quản lý bài giảng: Giảng viên có thể upload các tài liệu giảng dạy lên hệ thống, có thể xóa cái bài giảng đó
+   - Giáo án giảng dạy: Giảng viên có thể tạo giáo án giảng dạy, áp dụng cho nhiều lớp
+   - Xác nhận tiến độ hoặc tạo lịch bù: Giảng viên có thể xem lại được lịch sử xác nhận tiến độ ứng với mỗi buổi nghỉ, hoặc buổi nào đã xác nhận dạy
+   - Thống kê theo lớp học: ứng với mỗi lớp sẽ có 1 thống kê khác nhau, với các dạng thống kê như: Thống kê tiến độ mỗi lớp, thống kê theo tuần dạy
 3. GIAO DIỆN
    - Giao diện đăng nhập
    ![image](https://github.com/tamtatita/endcourse/assets/94518732/025f1542-4e45-4db1-9eb9-5aba0ca2d6a9)
